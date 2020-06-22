@@ -1,0 +1,2 @@
+# Data-Visualization-with-Python
+In this Assignment, I've demonstrated the data visualization skills I've learned by completing the "Data Visualization with Python" course, provided by IBM on Coursera. I was required to generate two visualization plots. The first one was a plot to summarize the results of a survey that was conducted to gauge an audience interest in different data science topics. The second plot was a Choropleth map of the crime rate in San Francisco.
